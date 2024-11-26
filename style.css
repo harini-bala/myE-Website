@@ -47,6 +47,10 @@ section {
   color: var(--main-color);
 }
 
+.icons{
+  border-radius: 50%;
+}
+
 .btn {
   margin-top: 1rem;
   display: inline-block;
